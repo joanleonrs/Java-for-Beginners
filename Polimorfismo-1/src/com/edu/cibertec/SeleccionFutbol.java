@@ -11,15 +11,15 @@ public abstract class SeleccionFutbol {
 	protected String apellidos;
 	protected int edad;
 
+	public SeleccionFutbol() {
+		
+	}
+	
 	public SeleccionFutbol(int id, String nombre, String apellidos, int edad) {
 		this.id = id;
 		this.nombre = nombre;
 		this.apellidos = apellidos;
 		this.edad = edad;
-	}
-
-	public SeleccionFutbol() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public int getId() {
