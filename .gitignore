@@ -1,3 +1,18 @@
+#########################
+### Proyectos en java ###
+#########################
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.mf
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
 # Compiled class file
 *.class
 
