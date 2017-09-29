@@ -3,15 +3,15 @@
 #########################
 
 # Eclipse
-.classpath
-.project
-.settings/
-*.mf
+#.classpath
+#.project
+#.settings/
+#*.mf
 
 # Intellij
-.idea/
-*.iml
-*.iws
+#.idea/
+#*.iml
+#*.iws
 
 # Compiled class file
 *.class
